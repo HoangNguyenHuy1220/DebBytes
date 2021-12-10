@@ -3,5 +3,6 @@ package com.example.android.devbyteviewer.database
 data class People (
     val id: Long,
     val name: String,
-    val age: Int
+    val age: Int,
+    val address: String
         )
